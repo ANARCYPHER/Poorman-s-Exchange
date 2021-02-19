@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-05-08 09:03:28 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:03:28 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:03:28 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:03:28 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:03:28 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:03:28 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:03:28 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:03:28 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:03:28 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:03:28 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:03:28 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:03:28 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:03:28 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:03:28 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:03:28 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:03:28 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:04:37 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:04:37 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:04:37 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:04:37 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:04:37 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:04:37 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:04:37 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:04:37 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:04:37 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:04:37 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:04:37 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:04:37 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:04:37 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:04:37 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:04:37 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
+ERROR - 2018-05-08 09:04:37 --> Severity: Notice --> Undefined property: stdClass::$article2fr C:\xampp\htdocs\cryptomarket\application\views\website\service.php 30
